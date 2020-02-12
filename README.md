@@ -14,8 +14,8 @@ You are welcomed to do anything in this repository!
 2. __性质__：
     - dev中的版本比master中的新。
     - dev的更新比master的频繁。
-    - master中的版本比dev的有更少（无）bug。
-    - master与dev有相同但独立的push、fetch&merge、add、commit等命令。
+    - dev中的版本比master的有更多内容与bug。
+    - dev与master有相同但独立的push、fetch&merge、add、commit等命令。
     - dev分支是我们日常工作的分支。
 3. __定理__：
     - 通过merge进行两个分支见代码的更新合并（把dev的版本merge到master中）。
