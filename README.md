@@ -1,5 +1,5 @@
 # GithubTest
-You are welcomed to do anything here!
+You are welcomed to do anything in this repository!
 
 ### 文件介绍:
 + __git.xlsx__:
