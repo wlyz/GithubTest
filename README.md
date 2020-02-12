@@ -22,4 +22,4 @@ You are welcomed to do anything here!
     
 ### Reference:
 
-[README.md编写指南](https://www.runoob.com/markdown/md-tutorial.html)<br>[Git Documentation](https://git-scm.com/docs)<br>[Git操作指南](https://www.liaoxuefeng.com/wiki/896043488029600)<br>[IGEM Software 2019](https://github.com/igemsoftware2019)
+[README.md编写指南](https://www.runoob.com/markdown/md-tutorial.html)<br>[Git Documentation](https://git-scm.com/docs)<br>[Git操作指南](https://www.liaoxuefeng.com/wiki/896043488029600)<br>[IGEM Software 2019](https://github.com/igemsoftware2019)<br>[Branch (master & dev)](https://blog.csdn.net/idealcitier/article/details/81516759)
