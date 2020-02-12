@@ -5,7 +5,7 @@ You are welcomed to do anything in this repository!
 + __git.xlsx__:
     - Git的一些学习记录，可以在里面照格式增该学习笔记。<br>统一备注: upload xxx, update xxx, delete xxx。
 + __.gitignore__:
-    - 里面的文件不会被add, commit & push。
+    - 里面的本地文件不会被add, commit & push到远程服务器。
 
 ### 分支Branch：
 
