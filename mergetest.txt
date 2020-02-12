@@ -2,8 +2,4 @@ merge
 merge--
 dev branch
 dev branch second
-<<<<<<< HEAD
 xxxxx
-=======
-xjtlu
->>>>>>> f9712a6452e047a878e971425f0d0d1f318edc73
