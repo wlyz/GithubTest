@@ -5,4 +5,7 @@ dev branch second
 
 xjtlu
 edu
+https://sci-hub.tw/10.1093/bioinformatics/btm344
+https://meltingasphalt.com/interactive/going-critical/
+https://zhuanlan.zhihu.com/p/93738666
 
