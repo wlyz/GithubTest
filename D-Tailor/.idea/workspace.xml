@@ -8,7 +8,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="D-Tailor" />
+    <favorites_list name="D-Tailor">
+      <favorite_root url="file://$PROJECT_DIR$/Features/Structure.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Features/CAI.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Features/RNADuplex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/SequenceAnalyzer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Data.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Functions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="ProjectId" id="1ZkcduDjuX1wt5zJpzAWArRIOEP" />
   <component name="ProjectViewState">
@@ -50,6 +57,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.TranslationFeaturesEcoliAnalyzer" />
+        <item itemvalue="Python.TranslationFeaturesEcoliAnalyzer" />
       </list>
     </recent_temporary>
   </component>
@@ -64,6 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1585386622077</updated>
       <workItem from="1585386623767" duration="5164000" />
+      <workItem from="1585400667135" duration="763000" />
+      <workItem from="1585401924218" duration="13000" />
+      <workItem from="1585401938552" duration="2219000" />
+      <workItem from="1585484946329" duration="3497000" />
     </task>
     <servers />
   </component>
@@ -71,9 +83,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="966" height="531" key="XDebugger.FullValuePopup" timestamp="1585399309413">
+    <state x="741" y="280" key="FileChooserDialogImpl" timestamp="1585401934703">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="966" height="531" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1585399309413" />
+    <state x="741" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585401934703" />
+    <state width="966" height="531" key="XDebugger.FullValuePopup" timestamp="1585487956868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="966" height="531" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1585487956868" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1585484985206">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585484985206" />
   </component>
 </project>

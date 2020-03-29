@@ -9,7 +9,7 @@ import Functions
 from uuid import uuid4
 
 
-class CAI(Feature):
+class CAI(Feature): # 继承 Feature
     """
     CAI Feature
         solution - solution where CAI should be computed
@@ -26,7 +26,7 @@ class CAI(Feature):
                                                                       'keep_aa': True}):
         if caiObject == None:  # create new instance
             # General properties of feature
-            Feature.__init__(self, solution=solution, label=label)
+            Feature.__init__(self, solution=solution, label=label) # 调用父类的构函
             # Specifics of this Feature
             self.cai_range = args['cai_range']
             self.sequence = solution.sequence[self.cai_range[0]:(self.cai_range[1] + 1)]

@@ -32,7 +32,7 @@ class Feature(object):
         Call to the function calculating the score with proper parameters
         To be implemented in subclasses
         '''
-        pass
+        pass # 占位符，等待子类覆盖。
     
     def add_subfeature(self,feature):
         self.subfeatures[feature.label+feature.__class__.__name__] = feature
